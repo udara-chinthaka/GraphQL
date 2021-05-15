@@ -1,0 +1,97 @@
+[
+    {
+        "id": 1,
+        "firstName": "Rack",
+        "lastName": "Jackon",
+        "gender": "man",
+        "age": 24,
+        "address": {
+            "streetAddress": "126",
+            "city": "San Jone",
+            "state": "CA",
+            "postalCode": "394221"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "7383627627"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "firstName": "smimth",
+        "lastName": "Max",
+        "gender": "man",
+        "age": 24,
+        "address": {
+            "streetAddress": "126",
+            "city": "San Jone",
+            "state": "CA",
+            "postalCode": "394221"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "7383627627"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "firstName": "John",
+        "lastName": "Deo",
+        "gender": "man",
+        "age": 26,
+        "address": {
+            "streetAddress": "126",
+            "city": "San Jone",
+            "state": "CA",
+            "postalCode": "394221"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "7383627627"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "firstName": "Max",
+        "lastName": "Dubby",
+        "gender": "man",
+        "age": 26,
+        "address": {
+            "streetAddress": "126",
+            "city": "San Jone",
+            "state": "CA",
+            "postalCode": "394221"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "7383627627"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "firstName": "udara",
+        "lastName": "chinthaka",
+        "gender": "man",
+        "age": 24,
+        "address": {
+            "streetAddress": "126",
+            "city": "San Jone",
+            "state": "CA",
+            "postalCode": "394221"
+        },
+        "phoneNumbers": [
+            {
+                "type": "home",
+                "number": "7383627627"
+            }
+        ]
+    }
+]

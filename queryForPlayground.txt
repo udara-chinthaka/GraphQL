@@ -1,0 +1,21 @@
+# Write your query or mutation here
+# change the queries and try it out
+
+
+query{
+  findProjectById(id:1){
+    projectName
+    startDate
+  }
+  
+  findUserById(id:2){
+    firstName
+    lastName
+  }
+  user(age:24){
+    firstName
+    lastName
+    id
+    age
+  }
+}
